@@ -1,5 +1,11 @@
 # @astrojs/starlight
 
+## 0.29.3
+
+### Patch Changes
+
+- [#2633](https://github.com/withastro/starlight/pull/2633) [`5adb720`](https://github.com/withastro/starlight/commit/5adb720afd354d99b3682d045b9dc8729a1ff274) Thanks [@HiDeoo](https://github.com/HiDeoo)! - Fixes a VoiceOver issue with Safari where the content of a `<script>` element could be read before the sidebar content.
+
 ## 0.29.2
 
 ### Patch Changes
